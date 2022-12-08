@@ -12,7 +12,7 @@ As a DBA for AdventureWorks, you need to back up a database to a URL in Azure an
 
 ## Restore a database
 
-1. Download the database backup file located on **https://github.com/MicrosoftLearning/dp-300-database-administrator/blob/master/Instructions/Templates/AdventureWorks2017.bak** to **C:\LabFiles\HADR** path on the lab virtual machine (create the folder structure if it does not exist).
+1. Download the database backup file located on **<https://github.com/MicrosoftLearning/dp-300-database-administrator/blob/master/Instructions/Templates/AdventureWorks2017.bak>** to **C:\LabFiles\HADR** path on the lab virtual machine (create the folder structure if it does not exist).
 
     ![Picture 03](../images/dp-300-module-15-lab-00.png)
 
